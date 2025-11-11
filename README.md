@@ -17,6 +17,8 @@ The project is developed as part of a **B.Tech Final Year Project** in Computer 
 ---
 Images - 
 <img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/d7cc43a0-9c7d-4d52-bfec-525a15145893" />
+Confusion Matrix:-
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/e890afe1-c023-45ef-8ba6-1e8512d11075" />
 
 
 
