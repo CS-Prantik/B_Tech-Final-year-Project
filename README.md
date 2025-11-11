@@ -15,6 +15,10 @@ Proteins interact in complex biological pathways that govern blood clot formatio
 The project is developed as part of a **B.Tech Final Year Project** in Computer Science.
 
 ---
+Images - 
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/d7cc43a0-9c7d-4d52-bfec-525a15145893" />
+
+
 
 ## 🧠 Technologies Used
 
