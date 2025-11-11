@@ -16,7 +16,7 @@ The project is developed as part of a **B.Tech Final Year Project** in Computer 
 
 ---
 Images - 
-<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/d7cc43a0-9c7d-4d52-bfec-525a15145893" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d7cc43a0-9c7d-4d52-bfec-525a15145893" />
 
 
 
